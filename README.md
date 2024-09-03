@@ -10,13 +10,3 @@ Welcome to Think Twice Code Once, a platform created for students to share and e
 
   [visit my site](https://Think-twice-code-once.vercel.app/)
 
-## For contribution
-
-- if you wish to contribute , then
-
-1. **Fork the Repository:** Click the "Fork" button to create your copy of the repository.
-
-2. **Clone Your Fork:** Clone the repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/anbu1506/code-repository.git
-   ```
